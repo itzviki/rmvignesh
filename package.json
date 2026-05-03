@@ -1,0 +1,25 @@
+{
+  "name": "resume-website",
+  "version": "1.0.0",
+  "description": "Modern responsive resume website for Vignesh Mohanadoss",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["resume", "portfolio", "vignesh", "react", "tailwind"],
+  "author": "Vignesh Mohanadoss",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.294.0"
+  }
+}
